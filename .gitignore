@@ -45,3 +45,6 @@ opencode.json
 
 # Unity directory monitor temp files
 ~UnityDirMonSyncFile~*
+
+# MCP for Unity (coplaydev) embedded package
+/Packages/com.coplaydev.unity-mcp/
