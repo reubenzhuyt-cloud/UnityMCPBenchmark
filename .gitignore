@@ -1,0 +1,42 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity source code / package cache
+/[Aa]ssets/Plugins/Editor/JetBrains*
+.vsconfig
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# OpenCode
+.opencode/
+opencode.json
+
+# Unity directory monitor temp files
+~UnityDirMonSyncFile~*
